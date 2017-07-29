@@ -1,0 +1,14 @@
+MuseAnotherJoke tell me another quote
+MuseAnotherJoke tell me a quote
+MuseAnotherJoke tell me another
+MuseAnotherJoke another one
+MuseAnotherJoke tell me a quote
+MuseAnotherJoke again
+MuseAnotherJoke next
+MuseAnotherJoke next one
+MuseAnotherJoke yes
+
+NameCapture my name is {USFirstName}
+NameCapture my name is {UKFirstName}
+
+LanguageCapture my favorite language is {PLanguage}

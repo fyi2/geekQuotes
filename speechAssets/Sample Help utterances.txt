@@ -1,0 +1,47 @@
+CustomHelpIntent help
+CustomHelpIntent help me
+CustomHelpIntent what can I ask you
+CustomHelpIntent get help
+CustomHelpIntent to help
+CustomHelpIntent to help me
+CustomHelpIntent what commands can I ask
+CustomHelpIntent what commands can I say
+CustomHelpIntent what can I do
+CustomHelpIntent what can I use this for
+CustomHelpIntent what questions can I ask
+CustomHelpIntent what can you do
+CustomHelpIntent what do you do
+CustomHelpIntent how do I use you
+CustomHelpIntent how can I use you
+CustomHelpIntent what can you tell me
+
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
+HelpIntent how do i find a bus
+
+
+Code:
+{
+   "intent": "CustomHelpIntent",
+   "slots": []
+ }
+
+ {
+      "intent": "HelpIntent",
+      "slots": []
+    }

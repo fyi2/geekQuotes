@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "intent": "NameCapture",
+      "slots": [
+        {
+          "name": "USFirstName",
+          "type": "AMAZON.US_FIRST_NAME"
+        },
+        {
+          "name": "UKFirstName",
+          "type": "AMAZON.GB_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "MuseAnotherJoke"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "LanguageCapture",
+      "slots": [
+        {
+          "name": "PLanguage",
+          "type": "PROGRAMMING_LANGUAGES"
+        }
+      ]
+    }
+  ]
+}
